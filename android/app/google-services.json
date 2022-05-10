@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "681749725175",
+    "project_id": "wine-at-breakfast",
+    "storage_bucket": "wine-at-breakfast.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681749725175:android:da328223eece808b4938f2",
+        "android_client_info": {
+          "package_name": "com.mainapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681749725175-bc1gc0okvu42teudh5ct2i93vipuj32v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzVLqaNaIrWvID_CTi6iqfSHumZGNdpAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681749725175-bc1gc0okvu42teudh5ct2i93vipuj32v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
